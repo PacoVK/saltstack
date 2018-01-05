@@ -9,3 +9,6 @@
 
 For development use [this](https://github.com/UtahDave/salt-vagrant-demo) Vagrant-Demo setup. It spinns up 3 Ubuntu-VMs, declared as 1 Master and 2 Minions.
 You can switch from Ubuntu to Centos, changing value "os" in Vagrantfile.
+
+##Note: 
+This Repo is working only for CentOS
